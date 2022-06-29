@@ -1,13 +1,4 @@
-/*
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-#include "esp_vfs.h"
-#include "esp_vfs_fat.h"
-#include "esp_system.h"
-*/
 #include "driver/i2c.h"
-
 #include "si7021.h"
 
 
